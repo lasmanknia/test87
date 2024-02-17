@@ -1,7 +1,7 @@
 {
     "name":"UDDOG",
     "short_name":"UDDOG",
-    "start_url":"https://uddog.github.io/app/index.html",
+    "start_url":"main/index.html",
     "display":"standalone",
     "background_color":"white",
     "theme_color":"black",
