@@ -3,13 +3,13 @@
     "short_name":"UDDOG",
     "start_url":"https://uddog.github.io/app/index.html",
     "display":"standalone",
-    "background_color":"#5900b3",
+    "background_color":"white",
     "theme_color":"black",
     "scope": ".",
     "description":"UDDOG a social service plateform",
     "icons":[
     {
-    "src":"images/logo.png",                     
+    "src":"images/icon-192x192.png",                     
     "sizes":"192x192",
     "type":"image/png"
     },
